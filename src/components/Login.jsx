@@ -88,7 +88,7 @@ useEffect(()=>{
 
 
                      <div className='form-group'>
-                             <span><Link style={{textDecoration:'none', color:'black'}} to="/messenger/register"> Don't have any account </Link></span>
+                             <span><Link style={{textDecoration:'none', color:'black'}} to="https://chat-app-it-b-c-2.herokuapp.com/messenger/register"> Don't have any account </Link></span>
                      </div>  
                        
                  </form> 

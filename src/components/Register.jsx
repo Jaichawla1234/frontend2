@@ -149,7 +149,7 @@ const Register = () => {
 
 
                       <div className='form-group'>
-                              <span><Link style={{textDecoration:'none', color:'black'}} to="/messenger/login"> Login Your Account </Link></span>
+                              <span><Link style={{textDecoration:'none', color:'black'}} to="https://chat-app-it-b-c-2.herokuapp.com/messenger/login"> Login Your Account </Link></span>
                       </div>  
                         
                   </form> 
